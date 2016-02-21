@@ -1,0 +1,17 @@
+{
+  "name": "API Gateway Example",
+  "version": "0.0.0",
+  "description": "Simple API Gateway and Service Register example for microservices.",
+  "main": "server.js",
+  "author": {
+    "name": "hp-3",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "expect.js": "^0.3.1",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5",
+    "socket.io-client": "^1.4.5"
+  }
+}
